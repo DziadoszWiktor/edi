@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Filmy>
+	<Film1>
+		<title>8Mile</title>
+		<genre>dramat,biograficzny</genre>
+		<year>2002</year>
+		<personal_rating>10</personal_rating>
+		<director>Curtis Hanson</director>
+		<actors>Marshall Mathers</actors>			
+	</Film1>
+	<Film2>
+		<title>Fast and Furious</title>
+		<genre>sensacyjny</genre>
+		<year>2001</year>
+		<personal_rating>10</personal_rating>
+		<director>Neal Moritz</director>
+		<actors>Vin Diesel,Paul Walker</actors>			
+	</Film2>
+	<Film3>
+		<title>American Sniper</title>
+		<genre>akcja,biograficzny</genre>
+		<year>2014</year>
+		<personal_rating>9</personal_rating>
+		<director>Clint Eastwood</director>
+		<actors>Bradley Cooper</actors>			
+	</Film3>
+	<Film4>
+		<title>Wrog u bram</title>
+		<genre>wojenny</genre>
+		<year>2001</year>
+		<personal_rating>9</personal_rating>
+		<director>Jean-Jacques Annaud</director>
+		<actors>Jude Law</actors>			
+	</Film4>
+	<Film5>
+		<title>Rush</title>
+		<genre>biograficzny</genre>
+		<year>2013</year>
+		<personal_rating>8</personal_rating>
+		<director>Ron Howard</director>
+		<actors>Chris Hemsworth</actors>			
+	</Film5>
+
+</Filmy>
